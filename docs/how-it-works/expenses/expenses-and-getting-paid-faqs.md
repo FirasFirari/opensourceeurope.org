@@ -9,6 +9,8 @@ For the steps from planning a purchase to payment, start with the [expense guide
 
 Submit an expense through the Collective’s page. Expenses are reviewed by the Collective and OSE. If the sole administrator requests their own reimbursement, OSE can check the supporting documents and pay without a second approver on the Collective side.
 
+An invoice from an admin for their own work always needs approval from another admin of the Collective. See [Can we pay people for their time?](#can-we-pay-people-for-their-time).
+
 We aim to start the payment within seven business days. These days count from when the expense is complete and approved, and the necessary funds have been received and are available. Bank processing time comes on top. This is a target, not a guaranteed date of receipt.
 
 ***
@@ -36,7 +38,14 @@ Go to your initiative's page and click **“Submit Expense”**. You’ll need t
 
 ## Can we pay people for their time?
 
-Collectives can pay service providers against a compliant invoice. This includes payment through a workers’ cooperative. Agree the work, price and dates with the Collective and submit the invoice through Open Collective for review. OSE does not provide a standard employment or payroll service. If an arrangement requires OSE to sign a specific contract, it must be discussed and accepted beforehand.
+Collectives can pay people for their work against a compliant invoice, including their own members and admins. The invoice can come from either of the following:
+
+* You, in your own name, as a self-employed person or a company.
+* A workers' cooperative or umbrella company that invoices the Collective for you.
+
+If an admin of the Collective submits an invoice for their own work, another admin of the Collective must approve it. The admin who submitted the invoice does not approve it. A Collective with only one admin adds a second admin before it pays that admin for their work.
+
+Agree the work, price and dates with the Collective and submit the invoice through Open Collective for review. OSE does not provide a standard employment or payroll service. Any arrangement that requires OSE to sign a specific contract must be discussed and accepted beforehand.
 
 ## Which documents are needed?
 
